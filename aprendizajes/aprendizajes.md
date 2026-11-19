@@ -16,7 +16,7 @@
 
 ## Hipótesis para testear
 - H1 · Los reels de demostración de escaneo real superan a los reels de producto estático.
-- H2 · El ángulo de privacidad genera más comentarios que el ángulo de miedo.
+- H2 · (redefinida por la revisión de tono) El ángulo de privacidad ("cuidarlo también es cuidarte", V02) frente a la emoción desde los ojos de la mascota (V04): cuál genera más comentarios y compartidos. Ya no se testea el miedo.
 - H3 · Los carruseles de prevención lideran en guardados y compartidos.
 - H4 · Las piezas de la máquina vending generan más tráfico local y menciones que las que llevan a la web.
 - H5 · Los testimonios de usuarios reales suben los clics al link frente al contenido de marca.

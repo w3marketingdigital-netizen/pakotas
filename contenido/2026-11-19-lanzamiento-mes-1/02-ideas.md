@@ -78,6 +78,7 @@ Plan de historias diario: `historias/plan-historias.md`.
 - **Permiso:** autorización firmada de uso de imagen y voz (Ley 1581). Se acuerda qué NO se muestra: teléfono, dirección, barrio, placa del carro ni la fachada de la casa.
 - **Formato:** celular vertical 9:16, luz natural, plano medio con la mascota en el encuadre, audio con micrófono de solapa. Sin guion leído: respuestas espontáneas.
 - **Preguntas (grabar cada respuesta por separado, de 10 a 20 s):**
+  0. (Calentamiento, añadida por la revisión de tono) ¿Quién es [nombre de la mascota] en tu casa? ¿Cómo llegó a tu vida? (buscar la frase de vínculo: "es mi hija", "es mi compañero")
   1. ¿Qué usabas antes para identificar a tu mascota? (placa grabada, nada, microchip)
   2. ¿Qué dudabas antes de probar Pakotas? (¿suscripción?, ¿se ve mi número?, ¿y si nadie la escanea?, ¿es difícil?)
   3. ¿Qué te convenció? / ¿Qué fue lo primero que notaste?
@@ -86,6 +87,7 @@ Plan de historias diario: `historias/plan-historias.md`.
   6. ¿Alguien la escaneó alguna vez? (solo si pasó de verdad; no inducir la respuesta)
   7. Completa la frase: "Se la recomendaría a alguien que…"
   8. ¿Qué le dirías a alguien que dice "mi perro nunca se ha perdido"?
+  9. ¿Qué sientes ahora cuando sales y [mascota] lleva su placa? (tranquilidad)
 - **Tomas de apoyo (B-roll):** la placa en el collar en primer plano; la mascota jugando; el usuario escaneando su propia placa con la pantalla mostrando **solo** el perfil de demostración o con los datos tapados en edición; paseo; un saludo final a cámara con la mascota ("Somos [nombre de la mascota] y somos de la Manada Pakotas 🐾").
 - **Regla de oro:** las frases que se publican son **literales** de la grabación. Los subagentes ponen `[FRASE LITERAL DEL USUARIO]` y la llenan con la transcripción. No se reescriben testimonios ni se inventan resultados.
 - **Plan B:** si el 4-dic no hay testimonios, V08 se intercambia con V09 (el experimento pasa al 9-dic) y los testimonios se mueven a V10 (15-dic) y P07 (18-dic). P07 se convierte en testimonio y su contenido de regalo pasa a las historias.
