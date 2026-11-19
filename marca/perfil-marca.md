@@ -73,9 +73,25 @@
 - **A quién NO le hablamos:** compradores que solo buscan el precio más bajo; tampoco usamos un discurso de "lujo".
 
 ## Voz y tono
-- **3 adjetivos:** cercana · protectora · clara.
+- **3 adjetivos:** cálida · cercana · tranquilizadora (y clara cuando toca explicar).
+- **Idea madre:** Pakotas cuida a un ser vivo que es familia. No vendemos tecnología: acompañamos el amor que el dueño ya siente. La tecnología es el medio; el centro es el vínculo y el reencuentro.
+- **Principios de tono (revisión del 2026-11-19, pedida por el responsable de la cuenta):**
+  1. **La mascota es protagonista y tiene nombre.** Se habla de "Rocco", "Luna", "tu lomito", "tu michi", "tu peludo", nunca de "el animal". Es un miembro de la familia.
+  2. **Desde el amor, no desde el miedo.** El riesgo se nombra con empatía y se resuelve con tranquilidad. Proporción: 80 % vínculo, cuidado y tranquilidad, y 20 % riesgo, siempre con salida ("esto puedes hacer").
+  3. **Nunca culpar al dueño.** Nada de "por descuido", "por no hacer X" o "si de verdad lo quisieras". Lo acompañamos: "a cualquiera le puede pasar".
+  4. **Primero la emoción, después el cómo.** El hook y la primera línea conectan con un sentimiento: el abrazo del reencuentro, la mirada en la puerta, el susto de la pólvora. NFC, QR, planes y datos van después y en lenguaje simple.
+  5. **Ponerse en los ojos de la mascota.** Sobre todo en la pólvora: "para él no es una fiesta, es un susto que no entiende".
+  6. **El reencuentro es la imagen ancla:** volver a casa, la cola que se mueve, el "¡aquí estás!".
+  7. **Comunidad que cuida:** "entre todos los cuidamos"; quien encuentra a una mascota es un aliado, no un extraño.
+  8. **Cercanía colombiana natural:** "lomito", "peludo", "michi", "parcero" con moderación. Calidez sin cursilería ni exceso de diminutivos.
+  9. **Las cifras acompañan, no protagonizan.** Un dato solo entra si ayuda a cuidar, nunca para asustar, y siempre con fuente.
+- **Ejemplos de ajuste (de → a):**
+  - "Tu perro no necesita perderse por descuido. Le basta un volador." → "Para él, un volador no es fiesta. Es un susto que no entiende."
+  - "¿Qué ve un desconocido cuando encuentra a tu perro?" → "Si un día se te pierde, que quien lo encuentre sepa cómo traerlo a casa."
+  - "Sin activar, es solo una placa bonita." → "Se la pusiste con amor. Actívala y que también lo cuide."
+  - "Lo que Pakotas NO es" → "Lo que nos prometimos cuando creamos Pakotas."
 - **Tuteo.** Lenguaje inclusivo con @ ("¿List@?"), como en la web.
-- **Expresiones que SÍ usamos:** "tu amigo ECOfriend 🐾", "la Manada Pakotas", "Pakoins", "co-tutores", "reencuentro", "vuelve a casa", "escanéala".
+- **Expresiones que SÍ usamos:** "tu amigo ECOfriend 🐾", "la Manada Pakotas", "Pakoins", "co-tutores", "reencuentro", "vuelve a casa", "escanéala", "que tenga cómo volver a ti", "cuidarlo también es esto", "entre todos lo cuidamos".
 - **PROHIBIDO:**
   - Garantizar que la mascota aparece o dar tiempos de recuperación como dato.
   - Usar cifras sin fuente (`[VERIFICAR]`).
@@ -83,6 +99,10 @@
   - Usar imágenes morbosas o de mascotas heridas.
   - Mencionar precios mientras no estén definidos.
   - Mostrar datos reales de usuarios.
+  - Culpar o juzgar al dueño ("descuido", "irresponsable").
+  - Alarmismo: abrir con miedo sin ofrecer cuidado y salida en la misma pieza.
+  - Abrir un hook con jerga técnica (NFC, QR, plan Pro) o con una cifra.
+  - Tono frío de ficha técnica, o sarcasmo con el dolor de quien perdió a su mascota.
 - **Muletillas a vigilar:** "en segundos", "instantáneo".
 - **Emojis:** moderados; 🐾 es el emoji firma.
 
