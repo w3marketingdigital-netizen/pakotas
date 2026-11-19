@@ -1,20 +1,23 @@
 {
-  "nombre": "[NOMBRE DEL CLIENTE] · sistema visual",
-  "googleFonts": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Inter:wght@500;600;700;800&display=swap",
-  "fuenteTitulares": "Playfair Display, Georgia, serif",
-  "fuenteTexto": "Inter, system-ui, sans-serif",
+  "nombre": "Pakotas ECOfriend · sistema visual",
+  "fuente": "Colores y tipografía extraídos del CSS de pakotas.co (variables --pk-*) el 2026-11-19. Manual de ¡zappdiseño! pendiente de confirmar.",
+  "googleFonts": "https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800;900&display=swap",
+  "fuenteTitulares": "Montserrat, system-ui, sans-serif",
+  "fuenteTexto": "Montserrat, system-ui, sans-serif",
   "colores": {
-    "claro": "#F7F7F5",
-    "medio": "#1F2A44",
-    "oscuro": "#0B0B0B",
-    "tinta": "#1F2A44",
+    "claro": "#F6F7F1",
+    "medio": "#90268F",
+    "oscuro": "#5E1A5C",
+    "tinta": "#3E3E3F",
     "textoSuave": "#5E6470",
-    "textoSuaveOscuro": "#C8CCD6",
-    "acento": "#E4572E",
-    "barraApagada": "#3A4766",
-    "chip": "#3A4766"
+    "textoSuaveOscuro": "#E6D9EE",
+    "acento": "#ABD040",
+    "barraApagada": "#9D7AD1",
+    "chip": "#7C4593",
+    "acentoSecundario": "#00A3E3",
+    "alerta": "#E03131"
   },
-  "etiqueta": "[ETIQUETA DE SERIE]",
-  "firma": "[Nombre · @cuenta]",
-  "firmaDerecha": "[MARCA]"
+  "etiqueta": "TU AMIGO ECOFRIEND 🐾",
+  "firma": "Pakotas ECOfriend · @pakotas.ecofriend",
+  "firmaDerecha": "PAKOTAS"
 }
