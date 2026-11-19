@@ -4,16 +4,18 @@
 > Lo confidencial se marca como **NO USAR EN CONTENIDO**.
 
 ## Historia y origen
-- **Hecho:** Pakotas ECOfriend es una marca de C+H Cordeles y Herramientas SAS (Colombia). El diseño de marca es de ¡zappdiseño!
-- **Por confirmar:** quién la fundó, por qué (¿hubo una mascota perdida en el origen?), desde cuándo existe y qué relación tiene con el negocio de cordelería (¿collares y traíllas?) `[CONFIRMAR]`. Una historia de origen real sería el activo narrativo más fuerte de la marca.
+- **Hecho:** Pakotas ECOfriend es una **empresa independiente**, nacida dentro de una línea de soluciones y relacionada con C+H Cordeles y Herramientas SAS (que figura en el pie de la web). El diseño de marca es de ¡zappdiseño!
+- **Hecho:** es una **marca nueva con un producto nuevo**: estamos en lanzamiento.
+- **Por confirmar:** quién está detrás, por qué nació (¿hubo una mascota perdida en el origen?) `[CONFIRMAR]`. Una historia de origen real sería el activo narrativo más fuerte del lanzamiento.
 
 ## Trayectoria y credenciales (hechos)
 - Cumple la Ley 1581 de 2012 (protección de datos personales).
 - Producto en funcionamiento: app web, placa NFC + QR, planes Free, Pro y Premium.
-- Usuarios activos, placas vendidas, reencuentros logrados: `[CONFIRMAR]`. No usar cifras hasta tenerlas.
+- **Hecho:** el producto ya se probó con usuarios reales antes del lanzamiento.
+- Número de usuarios, placas vendidas y reencuentros logrados: `[CONFIRMAR]`. No usar cifras hasta tenerlas.
 
 ## Clientes / casos (indicar si hay permiso para nombrarlos)
-- No hay casos publicados. **Prioridad:** conseguir 3-5 historias reales de reencuentro o de uso, con permiso firmado para mostrar a la mascota y a su tutor.
+- Hay usuarios de la prueba, pero todavía no hay casos publicados. **Prioridad del lanzamiento:** grabar 3-5 testimonios (video corto con la mascota) con permiso firmado. Es la prueba social de las semanas 3-4.
 
 ## Productos, servicios y método
 - La placa "nace en blanco" y se activa en un minuto desde la app; queda vinculada al perfil de la mascota.
@@ -24,7 +26,9 @@
 - Pro / Premium: ver `perfil-marca.md`. Premium incluye la alerta por zona (2 km).
 - La Manada Pakotas: Pakoins (+300 por activar la primera placa, +100 por el perfil completo, +50 por cada registro de salud, +250 por cada amigo que active su placa) y niveles de Cachorro a Leyenda.
 - Referidos: placa de bienvenida gratis para el amigo invitado que comparta su dirección.
-- Precios, catálogo de accesorios, material "eco", garantía, envíos y puntos de venta: `[CONFIRMAR]`.
+- **Canales de venta:** web (pakotas.com) y **máquinas vending en centros comerciales** con alcance nacional. Tiendas y veterinarias no son canal por ahora.
+- **Precios: no definidos todavía.** No se mencionan en el contenido.
+- Catálogo de accesorios, material "eco", garantía, envíos y ubicación de las máquinas: `[CONFIRMAR]`.
 
 ## Motivaciones y valores
 - **Hecho (web):** privacidad por encima de todo, "encontrar a tu mascota nunca fue, ni será, una función de pago", comunidad ("convertimos a cada transeúnte en un aliado potencial").
@@ -41,7 +45,7 @@
 - `[CONFIRMAR]`. Por defecto: no mostrar datos de usuarios (teléfono, dirección, ubicación) en ninguna pieza, ni siquiera en capturas de la app. Usar perfiles de demostración.
 
 ## Confidencial — NO USAR EN CONTENIDO
-- Razón social y datos societarios más allá del pie de página público.
-- Cifras de negocio, precios de costo, márgenes y proveedores (aún no recibidos).
+- Relación societaria con C+H Cordeles y Herramientas SAS.
+- Precios en discusión, cifras de negocio, márgenes, proveedores y acuerdos con los centros comerciales.
 - Datos personales de usuarios de la app.
 - Los mapas de persona (nombres ficticios como Natalia, Andrés o Camila son herramientas internas, no personajes de contenido).
