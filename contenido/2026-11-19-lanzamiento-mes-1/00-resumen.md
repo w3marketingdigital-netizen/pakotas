@@ -7,34 +7,34 @@
 ## Piezas
 | Fecha | ID | Formato | Hook / portada elegida | Objetivo | Métrica de éxito | Estado |
 |---|---|---|---|---|---|---|
-| Lun 23-nov | **V01** 📌 | Reel | "¿Qué ve un desconocido cuando encuentra a tu perro?" | Revelación | Alcance, seguidores, % que lo ve completo | Listo · falta grabar |
-| Mar 24-nov | **C01** 📌 | Carrusel | "Cómo funciona una placa inteligente, en 3 pasos" | Revelación | Guardados | Listo · falta diseño |
-| Mié 25-nov | **P01** 📌 | Post | "2 formas de tener tu Pakotas" | Dónde comprar | Clics al link | Bloqueado por ubicaciones de máquinas |
-| Jue 26-nov | V02 | Reel | "Tu número de teléfono no debería ir colgado del collar." | Privacidad (H2) | Compartidos, comentarios | Bloqueado por producto (aviso / teléfono) |
-| Vie 27-nov | V03 | Reel | "Espera… ¿eso vende placas para perros?" | Vending | Alcance local, menciones | Falta ubicación y permiso del CC |
-| Sáb 28-nov | C02 | Carrusel | "¿Placa grabada o placa inteligente?" | Educar categoría | Comentarios, guardados | Listo |
-| Dom 29-nov | P02 | Post | "Cuando suena el primer volador, tu lomito…" (A-D) | Comunidad | Comentarios | Listo |
-| Lun 30-nov | V04 | Reel | "Tu perro no necesita perderse por descuido. Le basta un volador." | Alborada | Compartidos | Listo · grabar |
-| Mar 1-dic | C03 | Carrusel | "Lo que Pakotas NO es (y preferimos decírtelo)" | Objeciones | Clics web | Falta confirmar plan Free |
-| Mié 2-dic | V05 | Reel | "Si encuentras un perro con esta placa, haz esto." | Quien encuentra | Compartidos | Listo · grabar |
-| Jue 3-dic | P03 | Post | "Tu gato no sale. La pólvora no pregunta." | Prevención | Etiquetas | Versión A/B según placa para gato |
-| Vie 4-dic | V06 | Reel | "¿Compraste tu Pakotas? No te vayas sin hacer esto." | Activación | Activaciones (UTM v06) | Falta máquina y cronometrar activación |
-| Sáb 5-dic | C04 | Carrusel | "Plan antipólvora para tu lomito, antes del 7 de diciembre" | Prevención (H3) | Guardados, compartidos | Verificar datos 137 / 85 % |
-| Dom 6-dic | P04 | Post | "Sin activar, es solo una placa bonita." | Activación | Activaciones (UTM p04) | Falta URL de activación |
-| **Lun 7-dic** | **V07** ⭐ | Reel | "Hoy es Velitas. Lo que hagas antes de las 6 importa." | Pieza clave del mes | Compartidos, alcance | Versiones A/B (con o sin dato) |
-| Mar 8-dic | C05 | Carrusel | "Se me voló anoche. ¿Y ahora qué hago?" | Primera hora | Guardados, compartidos | Verificar canales por ciudad |
-| Mié 9-dic | V08 | Reel | [FRASE LITERAL DEL USUARIO] (testimonio 1) | Prueba social (H5) | Clics web | Requiere testimonio grabado |
-| Jue 10-dic | P05 | Post | [FRASE LITERAL DEL USUARIO] (tarjeta) | Prueba social | Clics web | Requiere testimonio + permiso |
-| Vie 11-dic | V09 | Reel | "¿Y si nadie escanea la placa? Lo probamos." | Experimento vending | Alcance, menciones | Grabar en CC (permiso) |
-| Sáb 12-dic | C06 | Carrusel | "¿Ya tiene microchip? 4 mitos que conviene aclarar" | Objeciones | Clics web | Verificar estado del proyecto de ley |
-| Dom 13-dic | P06 | Post | "No regales un perro. Protege al que ya tiene." | Regalo | Visitas a la máquina / web | Falta ubicación |
-| Lun 14-dic | C07 | Carrusel | "¿Te llaman diciendo que tienen a tu perro?" | Privacidad / estafas | Compartidos | Verificar canal de denuncia |
-| Mar 15-dic | V10 | Reel | [FRASE LITERAL] "Lo que dudaba antes de probarla" | Prueba social | Clics web | Requiere 2-3 testimonios |
-| Mié 16-dic | V11 | Reel | "9 noches de Novena. ¿Cuántas veces se abre tu puerta?" | Prevención | Compartidos | Listo · grabar |
-| Jue 17-dic | C08 | Carrusel | "¿Te vas de viaje y tu mascota se queda?" | Co-tutor (Pro) | Activaciones (UTM c08) | Falta URL y paso de co-tutor |
-| Vie 18-dic | P07 | Post | "Tú la regalas. Quien la recibe, la activa." | Regalo | Clics web | Depende de envíos antes del 24-dic |
-| Sáb 19-dic | V12 | Reel | "Te llegó la prima y falta el regalo de tu prima." | Regalo vending | Visitas a la máquina | Falta ubicación |
-| Dom 20-dic | P08 | Post | "¿Y tu lomito ya es de la Manada?" | Comunidad / UGC | Etiquetas, menciones | Faltan bases del reto (Pakoins) |
+| Lun 23-nov | **V01** 📌 | Reel | "Si Rocco se pierde, que quien lo encuentre sepa traerlo a casa." | Revelación | Alcance, seguidores, % que lo ve completo | Listo · falta grabar |
+| Mar 24-nov | **C01** 📌 | Carrusel | "Así tu peludo tiene cómo volver a ti" | Revelación | Guardados | Listo · falta diseño |
+| Mié 25-nov | **P01** 📌 | Post | "Que tenga cómo volver a ti. Encuéntrala en dos lugares." | Dónde comprar | Clics al link | Bloqueado por ubicaciones de máquinas |
+| Jue 26-nov | V02 | Reel | "El collar de Rocco es para traerlo a casa, no para exponerte." | Privacidad (H2) | Compartidos, comentarios | Bloqueado por producto (aviso / teléfono) |
+| Vie 27-nov | V03 | Reel | "Espera… ¿aquí venden algo para cuidar a Luna?" | Vending | Alcance local, menciones | Falta ubicación y permiso del CC |
+| Sáb 28-nov | C02 | Carrusel | "Su placa lleva su nombre. ¿Y si contara más?" | Educar categoría | Comentarios, guardados | Listo |
+| Dom 29-nov | P02 | Post | "Tú escuchas fiesta. ¿Y tu lomito, cómo lo vive?" | Comunidad | Comentarios | Listo |
+| Lun 30-nov | V04 | Reel | "Para Rocco no es fiesta. Es un susto que no entiende." | Alborada | Compartidos | Listo · grabar |
+| Mar 1-dic | C03 | Carrusel | "Lo que nos prometimos cuando creamos Pakotas" | Objeciones | Clics web | Falta confirmar plan Free |
+| Mié 2-dic | V05 | Reel | "Se llama Rocco y tiene familia. Así lo ayudas a volver." | Quien encuentra | Compartidos | Listo · grabar |
+| Jue 3-dic | P03 | Post | "Tu michi es de casa. Que tenga cómo volver a ella." | Prevención | Etiquetas | Versión A/B según placa para gato |
+| Vie 4-dic | V06 | Reel | "Antes de ponérsela a Luna, actívala aquí. Que también la cuide." | Activación | Activaciones (UTM v06) | Falta máquina y cronometrar activación |
+| Sáb 5-dic | C04 | Carrusel | "Esta Velitas, que la pase tranquilo y a tu lado" | Prevención (H3) | Guardados, compartidos | Verificar datos 137 / 85 % |
+| Dom 6-dic | P04 | Post | "Se la pusiste con amor. Actívala y que también lo cuide." | Activación | Activaciones (UTM p04) | Falta URL de activación |
+| **Lun 7-dic** | **V07** ⭐ | Reel | "Para Rocco, Velitas no es fiesta. Es un susto que no entiende." | Pieza clave del mes | Compartidos, alcance | Versiones A/B (con o sin dato) |
+| Mar 8-dic | C05 | Carrusel | "Si se te voló anoche, vamos a buscarlo juntos" | Primera hora | Guardados, compartidos | Verificar canales por ciudad |
+| Mié 9-dic | V08 | Reel | "[FRASE LITERAL DEL USUARIO] sobre su mascota como familia (testimonio 1)" | Prueba social (H5) | Clics web | Requiere testimonio grabado |
+| Jue 10-dic | P05 | Post | "[FRASE LITERAL DEL USUARIO] — [nombre] y [mascota] (tarjeta)" | Prueba social | Clics web | Requiere testimonio + permiso |
+| Vie 11-dic | V09 | Reel | "¿Alguien se detendría por Toby? Lo probamos en [CC]." | Experimento vending | Alcance, menciones | Grabar en CC (permiso) |
+| Sáb 12-dic | C06 | Carrusel | "Ya tiene microchip porque lo quieres. Hablemos de eso" | Objeciones | Clics web | Verificar estado del proyecto de ley |
+| Dom 13-dic | P06 | Post | "Un lomito no se regala. Cuidar al suyo, sí." | Regalo | Visitas a la máquina / web | Falta ubicación |
+| Lun 14-dic | C07 | Carrusel | "Mientras lo buscas, que nadie se aproveche de tu amor" | Privacidad / estafas | Compartidos | Verificar canal de denuncia |
+| Mar 15-dic | V10 | Reel | "Querían cuidarlos bien. Y tenían dudas. (testimonios)" | Prueba social | Clics web | Requiere 2-3 testimonios |
+| Mié 16-dic | V11 | Reel | "POV: es Novena y Kira quiere ser la primera en saludar." | Prevención | Compartidos | Listo · grabar |
+| Jue 17-dic | C08 | Carrusel | "Mientras no estás, que lo cuiden como tú" | Co-tutor (Pro) | Activaciones (UTM c08) | Falta URL y paso de co-tutor |
+| Vie 18-dic | P07 | Post | "Tú pones el cariño. Su familia pone el resto." | Regalo | Clics web | Depende de envíos antes del 24-dic |
+| Sáb 19-dic | V12 | Reel | "Llegó la prima. Falta el regalo de tu prima… y de Lola." | Regalo vending | Visitas a la máquina | Falta ubicación |
+| Dom 20-dic | P08 | Post | "Aquí falta tu peludo. ¿Nos lo presentas?" | Comunidad / UGC | Etiquetas, menciones | Faltan bases del reto (Pakoins) |
 
 📌 = fijada en el perfil · ⭐ = pieza clave
 
@@ -47,6 +47,7 @@
 - Son estimaciones razonables para Colombia. Se ajustan al cierre de la semana 2 con las estadísticas nativas de Instagram.
 
 ## Decisiones del director aplicadas
+- **Revisión de tono (19-nov):** toda la parrilla se reescribió con la voz emocional y cercana de `marca/perfil-marca.md`: la mascota es familia, se habla desde el amor y no desde el miedo, sin culpar al dueño, primero la emoción y después el cómo, y el reencuentro como imagen ancla. Rocco, Luna, Toby, Kira y Lola son nombres de ejemplo `[CONFIRMAR]` con la mascota real que aparezca.
 - "Que vuelva a casa en minutos" solo va en la firma, nunca como promesa. "En un minuto" solo se usa para la activación (literal de la web).
 - "GPS" solo aparece en C03, en negación ("No es un GPS").
 - No se mencionan precios (no están definidos).
