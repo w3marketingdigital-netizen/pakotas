@@ -1,0 +1,5 @@
+{"id":"EJEMPLO","scenes":[
+ {"bg":"cream","dur":2.5,"items":[{"kind":"chat","who":"Cliente","time":"21:04","text":"¿Tienen disponible?","t":0.1},{"kind":"big","text":"¿Quién responde?","size":110,"accent":true,"t":0.8}]},
+ {"bg":"deep","dur":2,"step":true,"items":[{"kind":"num","text":"1"},{"kind":"big","text":"Primer paso","size":100,"t":0.3}]},
+ {"bg":"black","dur":2.5,"last":true,"sigAt":1.2,"items":[{"kind":"big","text":"Cierre con la idea clave.","size":100},{"kind":"chips","items":["Etiqueta"],"t":0.8}]}
+]}

@@ -1,0 +1,13 @@
+# Archivos pesados: se guardan en Google Drive, no en el repositorio
+*.mp4
+*.mp3
+*.wav
+*.zip
+diseno/**/avatar.png
+diseno/**/avatar.jpg
+# Respuestas de APIs (pueden contener enlaces temporales)
+diseno/**/up-*.json
+diseno/**/status.json
+diseno/**/task*.json
+# Configuración local con posibles credenciales
+.claude/settings.local.json

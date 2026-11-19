@@ -1,0 +1,20 @@
+{
+  "nombre": "[NOMBRE DEL CLIENTE] · sistema visual",
+  "googleFonts": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Inter:wght@500;600;700;800&display=swap",
+  "fuenteTitulares": "Playfair Display, Georgia, serif",
+  "fuenteTexto": "Inter, system-ui, sans-serif",
+  "colores": {
+    "claro": "#F7F7F5",
+    "medio": "#1F2A44",
+    "oscuro": "#0B0B0B",
+    "tinta": "#1F2A44",
+    "textoSuave": "#5E6470",
+    "textoSuaveOscuro": "#C8CCD6",
+    "acento": "#E4572E",
+    "barraApagada": "#3A4766",
+    "chip": "#3A4766"
+  },
+  "etiqueta": "[ETIQUETA DE SERIE]",
+  "firma": "[Nombre · @cuenta]",
+  "firmaDerecha": "[MARCA]"
+}
