@@ -43,6 +43,7 @@
 - **Carruseles:** 12:30 p. m. (L-V) · 10:00 a. m. (sábado). C04 el sábado 5-dic a las 10:00 a. m.
 - **Posts:** 12:30 p. m. (L-V) · 10:00 a. m. (domingo).
 - **Historias:** de 8:00 a. m. a 9:00 p. m., repartidas en 3 momentos (mañana, mediodía y noche). La historia que comparte la pieza del feed sale 1 hora después de publicarla.
+- TikTok: caption corto sin firma; el párrafo-firma va en la bio de TikTok.
 - Son estimaciones razonables para Colombia. Se ajustan al cierre de la semana 2 con las estadísticas nativas de Instagram.
 
 ## Decisiones del director aplicadas
